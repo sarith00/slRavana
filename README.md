@@ -1,7 +1,7 @@
    <div align="center">
    
    ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
-   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
+   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/sarith00/slRavana)
    
  [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
   
